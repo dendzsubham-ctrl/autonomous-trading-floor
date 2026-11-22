@@ -324,15 +324,7 @@ The Massive integration uses simulated market prices when the external market-da
 - SQLite databases and persistent memory files are excluded from version control.
 - Never publish API keys, private credentials, or personal account data.
 
-## Project Background and Attribution
 
-This project is based on the original MIT-licensed Agents repository by Ed Donner:
-
-https://github.com/ed-donner/agents
-
-The original project provided a foundation that has been customized and extended for the Autonomous Trading Floor application.
-
-Original MIT copyright and licence terms are retained in the `LICENSE` file.
 
 ## Disclaimer
 
